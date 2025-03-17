@@ -5,3 +5,4 @@ transformers
 huggingface_hub
 torch
 pickle-mixin
+scikit-learn
